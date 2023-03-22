@@ -1,3 +1,5 @@
+// На шахматной доске расставить 8 ферзей так, чтобы они не били друг друга. И вывести Доску.
+
 package java_projects.java_seminar_5;
 
 import java.util.Random;
